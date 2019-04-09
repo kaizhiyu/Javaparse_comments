@@ -6,5 +6,7 @@
 >
 > 用于学习Javaparse书中的使用样例，并注解。
 
+原库位置：https://github.com/javaparser/javaparser-visited
 
+原书："JavaParser: Visited" <https://leanpub.com/javaparservisited>
 
